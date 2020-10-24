@@ -1,12 +1,10 @@
 ---
-permalink: /
+permalink: /imprint
 title: Impressum
 subtitle: Rechtliches
 
 leadingParagraph: Hier findest Du die rechtlichen Angaben der Software 1 GmbH. Diese sind gültig für alle unsere Produkte und Dienstleistungen.
 ---
-
-<meta http-equiv="refresh" content="0; url=/imprint">
 
 #### Name & Anschrift
 
@@ -43,3 +41,4 @@ Online-Streitbeilegung (OS-Plattform) bereit, die unter
 aufrufbar ist. Unsere E-Mail-Adresse für alle Streitschlichtungsverfahren lautet
 legal@eins.io. Wir sind bereit, an einem Streitbeilegungsverfahren vor einer anerkannten
 Verbraucherschlichtungsstelle teilzunehmen.
+
