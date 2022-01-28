@@ -29,7 +29,7 @@ DE330571869
 #### Kontakt
 
 Email: legal@eins.io<br />
-Telefon: +49 30 555 70841<br />
+Telefon: +49 6227 698 9603<br />
 Fax: +49 3628 511 9993<br />
 
 
