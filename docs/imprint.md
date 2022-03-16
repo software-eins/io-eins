@@ -25,6 +25,8 @@ Unser Stammkapital beträgt € 25.000.
 #### Umsatzsteuer-ID
 DE330571869
 
+#### WEEE-Registrierungsnummer
+DE30676082
 
 #### Kontakt
 
